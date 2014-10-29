@@ -1,0 +1,4 @@
+goaku
+=====
+
+Golang akumuli bindings
